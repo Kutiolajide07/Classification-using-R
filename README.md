@@ -1,4 +1,4 @@
-# Classification-using-R
+# Classification Logistics regression, Association rule, Sentiment Analysis and R-shiny-using-R-using-R
 
 rm(list = ls())
 
